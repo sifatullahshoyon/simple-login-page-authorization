@@ -130,7 +130,7 @@ const Login = () => {
             </p>
             <div className="w-25">
               <img
-                src="/src/assets/google-btn.png"
+                src="/assets/google-btn.png"
                 alt=""
                 className="img-fluid"
                 onClick={handleGoogleProvider}
@@ -138,7 +138,7 @@ const Login = () => {
             </div>
             <div className="w-25">
               <img
-                src="/src/assets/github-btn.png"
+                src="/assets/github-btn.png"
                 alt=""
                 className="img-fluid"
                 onClick={handleGithubProvider}
@@ -147,7 +147,7 @@ const Login = () => {
           </Form>
         </div>
         <div className="w-50 d-flex justify-content-end ">
-          <img src="/src/assets/login.png" className="img-fluid" alt="" />
+          <img src="/assets/login.png" className="img-fluid" alt="" />
         </div>
       </div>
     </div>

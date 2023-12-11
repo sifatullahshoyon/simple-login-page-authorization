@@ -123,7 +123,7 @@ const Registers = () => {
           <p className="my-2 fs-5"><small>Already Have an account? Please <Link to='/login'>Login</Link></small></p>
         </Form>
         <div className="w-50 d-flex justify-content-end">
-          <img src="/src/assets/registers.png" className="img-fluid" alt="" />
+          <img src="/assets/registers.png" className="img-fluid" alt="" />
         </div>
       </div>
     </div>
